@@ -1,0 +1,37 @@
+                                   
+test loss 0.308, test acc 87.008%                                                                     
+-----------------------------                                                                         
+TAG      TOKEN                                                                                        
+                                                                                                      
+DET      the                                                                                          
+ADJ      old                                                                                          
+NOUN     man                                                                                          
+DET      the                                                                                          
+NOUN     boat                                                                                         
+PUNCT    .                                                                                            
+-----------------------------                                                                         
+TAG      TOKEN                                                                                        
+PROPN    The
+ADJ      complex
+NOUN     houses
+VERB     married
+CCONJ    and
+ADJ      single
+NOUN     soldiers
+CCONJ    and
+PRON     their
+NOUN     families
+PUNCT    .
+-----------------------------
+TAG      TOKEN
+
+ADJ      The
+NOUN     man
+PRON     who
+VERB     hunts
+VERB     ducks
+ADP      out
+ADP      on
+NOUN     weekends
+PUNCT    .
+(nlp) [naukarkr@dgx2-4 (master) /nfs/hpc/share/naukarkr/NLP$] 
